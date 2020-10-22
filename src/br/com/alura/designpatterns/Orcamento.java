@@ -15,6 +15,9 @@ import br.com.alura.designpatterns.estados.EstadoDeUmOrcamento;
  */
 public class Orcamento {
 
+	/**
+	 * Comentário na branch "master"
+	 */
 	private double baseCalculo;
 	private List<Item> itens;
 	private EstadoDeUmOrcamento estadoAtual;
