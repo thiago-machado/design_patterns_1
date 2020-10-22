@@ -8,6 +8,11 @@ import br.com.alura.designpatterns.descontos.Item;
 import br.com.alura.designpatterns.estados.EmAprovacao;
 import br.com.alura.designpatterns.estados.EstadoDeUmOrcamento;
 
+/**
+ * Comentário de teste
+ * @author thiago.machado
+ *
+ */
 public class Orcamento {
 
 	private double baseCalculo;
