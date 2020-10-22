@@ -9,7 +9,8 @@ import br.com.alura.designpatterns.estados.EmAprovacao;
 import br.com.alura.designpatterns.estados.EstadoDeUmOrcamento;
 
 /**
- * Comentário de teste
+ * Comentário inserido em "patterns"
+ * 
  * @author thiago.machado
  *
  */
